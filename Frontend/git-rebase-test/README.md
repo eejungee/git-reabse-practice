@@ -1,7 +1,6 @@
 ## Git Command
 
 - `git rebase [-i]`
-- `git rebase [-i]`
   한 브랜치에서 다른 브랜치를 합치는 방법 중 하나이다
   다른 방법인 merge와 달리 깔끔하게 커밋 히스토리를 정리해준다
 
